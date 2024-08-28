@@ -12,7 +12,7 @@
 - There are 4 .ini files for every version (NTSC-U is North America, PAL is Europe, NTSC-J is Japan, and NTSC-K is Korea)
 - In these .ini files contains the speedometer gecko codes for each region, you can only use one code at a time (The EV speedometer is only available for NTSC-U and PAL)
 - Copy the code you want to use (If unsure, use the Engine or IV speedometer)
-- Put it into the dolphin emu that you use tor record
+- Put it into the dolphin emu that you use to record
 - Record the ghost with the speedometer
 
 ##
