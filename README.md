@@ -24,6 +24,6 @@
 - In these folders you will have a variaty of prefixes (if unsure when using the engine or IV speedometer, use `KMH 1.png`, if unsure when using the XZ speedometer, use `speed.png`, everything else has only one prefix
 - Add the PNG file of your choice to the timeline at the highest layer and line it up like this
 
-![Example](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Example](https://github.com/midiguy7000/MKWii-Speedometer-Starter-Pack/blob/main/Example/example.png?raw=true)
 
 - Export the video and you are done!
